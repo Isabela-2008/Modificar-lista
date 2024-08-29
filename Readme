@@ -1,0 +1,29 @@
+Enunciado do Projeto
+Título: Adicionador de Elemento em Lista
+
+Descrição:
+Desenvolva um programa em Python que define uma função para adicionar um elemento a uma lista. O programa deve inicializar uma lista vazia, solicitar ao usuário que insira um elemento, adicionar o elemento à lista usando a função definida e exibir a lista resultante.
+
+Requisitos:
+
+Definir uma função adicionar_elemento que adicione um elemento a uma lista.
+Inicializar uma lista vazia.
+Solicitar ao usuário que insira um elemento a ser adicionado à lista.
+Utilizar a função adicionar_elemento para adicionar o elemento à lista.
+Exibir a lista após a adição do elemento.
+
+# Adicionador de Elemento em Lista
+
+## Descrição
+Este projeto implementa uma função em Python para adicionar um elemento a uma lista. O programa inicializa uma lista vazia, solicita ao usuário a inserção de um elemento, usa a função para adicionar o elemento à lista e exibe a lista modificada.
+
+## Funcionalidades
+- Inicialização de uma lista vazia.
+- Leitura de um elemento fornecido pelo usuário.
+- Adição do elemento à lista usando uma função.
+- Exibição da lista após a adição do elemento.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/adicionador-elemento-lista.git
